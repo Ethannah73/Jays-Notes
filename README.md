@@ -7,7 +7,7 @@
 - [Comp1238 - Things to Remember](https://github.com/Ethannah73/Jays-Notes/blob/main/comp1238.md)
 
 ## Schedule
-  ### Monday
+  ### Monday ###
     * 10 AM [Fundamentals of Computing Logic COMP1236](https://learn.georgebrown.ca/d2l/home/337951)
     * 1 PM [Introduction to Data Management COMP1238](https://learn.georgebrown.ca/d2l/home/334969)
     * 4 PM [IT Essentials COMP1151](https://learn.georgebrown.ca/d2l/home/335096)
